@@ -128,9 +128,9 @@ import sys
 # print(divide('2', '1'))
 
 # 8.8 Predefined Clean-up Actions
-for line in open('sample.txt'):
-    print(line, end='')
+# for line in open('sample.txt'):
+#     print(line, end='')
 
-with open('sample.txt') as f:
-    for line in f:
-        print(line, end='')
+# with open('sample.txt') as f:
+#     for line in f:
+#         print(line, end='')
